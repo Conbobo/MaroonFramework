@@ -36,5 +36,11 @@
 	},
 	"lineSensorRight": {
 		"port": 4
+	},
+	"Phil": {
+		"port": 8
+	},
+	"Miranda": {
+		"port": 9
 	}
 }
